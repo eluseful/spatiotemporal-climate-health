@@ -1,4 +1,24 @@
-gee-env/ 
-__pycache__/ 
-.ipynb_checkpoints/ 
-outputs/*.csv 
+# Python virtual environment
+gee-env/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Earth Engine auth
+.earthengine/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data outputs
+*.csv
+*.tif
+*.zip
+

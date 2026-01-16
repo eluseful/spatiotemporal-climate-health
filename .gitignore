@@ -1,0 +1,4 @@
+gee-env/ 
+__pycache__/ 
+.ipynb_checkpoints/ 
+outputs/*.csv 
